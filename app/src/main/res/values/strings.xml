@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">VocaPrectice</string>
+
+	<string name="fm_add_word">Word</string>
+	<string name="fm_add_mean">Mean</string>
+	<string name="fm_add_btn">ADD</string>
+	<string name="fm_edit_search_btn">Search</string>
+	<string name="rv_edit_btn_edit">Edit</string>
+	<string name="rv_edit_btn_delete">Delete</string>
+</resources>
